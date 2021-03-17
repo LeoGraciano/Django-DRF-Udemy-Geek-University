@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.pythonPath": "/home/leograciano/.local/share/virtualenvs/Django-DRF-Udemy-Geek-University-UC2qo4Fo/bin/python",
+    "python.testing.pytestArgs": [
+        "test"
+    ]
+}
